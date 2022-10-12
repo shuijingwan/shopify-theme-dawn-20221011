@@ -1,8 +1,8 @@
 [
   {
-    "name": "water",
-    "theme_name": "Water",
-    "theme_version": "1.0.0",
+    "name": "theme_info",
+    "theme_name": "dawn-20221011",
+    "theme_version": "0.0.1",
     "theme_author": "wangqiang",
     "theme_documentation_url": "https://www.shuijingwanwq.com/",
     "theme_support_url": "https://www.shuijingwanwq.com/"
