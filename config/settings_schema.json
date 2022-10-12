@@ -1,11 +1,11 @@
 [
   {
-    "name": "dark",
+    "name": "theme_info",
     "theme_name": "dawn-20221011",
     "theme_version": "0.0.1",
-    "theme_author": "WangQiang",
-    "theme_documentation_url": "https://www.shuijingwanwq.com/",
-    "theme_support_url": "https://www.shuijingwanwq.com/"
+    "theme_author": "Shopify",
+    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
+    "theme_support_url": "https://support.shopify.com/"
   },
   {
     "name": "t:settings_schema.colors.name",
