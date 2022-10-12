@@ -1,6 +1,11 @@
 [
   {
-    "name": "water"
+    "name": "water",
+    "theme_name": "Water",
+    "theme_version": "1.0.0",
+    "theme_author": "wangqiang",
+    "theme_documentation_url": "https://www.shuijingwanwq.com/",
+    "theme_support_url": "https://www.shuijingwanwq.com/"
   },
   {
     "name": "t:settings_schema.colors.name",
